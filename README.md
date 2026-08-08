@@ -39,10 +39,8 @@ citations), `tier_counts`, `weighted_score`, and the list of PMIDs reviewed.
 ## Demo UI
 
 A Streamlit front end (`app.py`) provides a live UI. This includes gene and disease
-inputs, a verdict badge, the evidence tier breakdown, and clickable PMID's linking out to a
+inputs, a verdit badge, the evidence tier breakdown, and clickable PMID's linking out to a
 source article on PubMed in a new tab.
-
-![1786229461289](image/README/1786229461289.png)
 
 To run:
 
