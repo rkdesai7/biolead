@@ -277,8 +277,8 @@ st.markdown(
 <div class="hero">
     <div class="eyebrow">Target validation · AI-assisted</div>
     <h1>BioLead</h1>
-    <p>Separates true causal drivers from correlated passenger genes in
-    dermatological disease, weighing genetic and functional evidence over
+    <p>Separates true causal driver genes from correlated passenger genes in
+    diseases, weighing functional evidence over
     expression correlation alone.</p>
 </div>
 """,
