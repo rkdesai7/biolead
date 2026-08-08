@@ -45,7 +45,7 @@ source article on PubMed in a new tab.
 To run:
 
 ```bash
-pip install -r requirements-app.txt
+pip install -r requirements.txt
 export ANTHROPIC_API_KEY=sk-ant-...
 export NCBI_EMAIL=you@example.com
 streamlit run app.py
@@ -77,7 +77,7 @@ run that has to weigh conflicting evidence and produce trustworthy chain-of-thou
 
 ## Tuning
 
-- **Tier weights** lat the top of `src/reasoning.py` can be adjusted
+- **Tier weights**: at the top of `src/reasoning.py` can be adjusted
 - **NCBI rate limits**: Get a free NCBI API key and set `NCBI_API_KEY` to raise the limit to 10 req/s.
 
 ## Future Improvements
