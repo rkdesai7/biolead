@@ -10,7 +10,7 @@ asks an LLM to produce a weighteed and citation-backed verdict:
 - `passenger`: differences in gene activity are a symptom of the phenotype
 - `uncertain`: inconclusive evidence
 
-Currently, this is a local-only prototype, but `pipeline.py` can be used for seamless deployment in the cloud (see the accompanying diagram).
+Currently, this is a local-only prototype, but `pipeline.py` can be used for seamless deployment in the cloud (see `AWS_Implementation.png`).
 
 ## Pipeline
 
